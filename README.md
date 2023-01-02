@@ -5,7 +5,7 @@ Full-Stack Engineer | Technical Lead
 -------------------------------------
 
 * 🌍  I'm based in Indore (Madhya Pradesh)
-* ✉️  You can contact me at [contact@kumarshanu.co.in](mailto:contact@kumarshanu.co.in)
+* ✉️  You can contact me at [contact@kumarshanu.co.in](mailto:contact@kumarshanu.co.in?subject=[GitHub]%20Source%20Hello)
 
 <a href="https://www.github.com/kumarshanu19" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/kumarshanu19?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
